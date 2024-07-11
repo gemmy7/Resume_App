@@ -1,4 +1,4 @@
-# resume
+# 👨‍💼 Resume App
 
 My Resume App
 
